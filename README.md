@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Abbas Nassar</h1>
 <h3 align="center">A passionate Computer engineering student interested in learning new skills.</h3>
-<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasnassar&label=Profile%20views&color=0e75b6&style=flat" alt="abbasnassar" /> </p>
 
 - 🌱 I’m currently learning **NodeJS**
