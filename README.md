@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abbasnassar212@gmail.com**
 
-- ⚡ Fun fact **I can make some boring stuff interesting and funny**
+- ⚡ Fun fact **I can make some boring stuff interesting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
