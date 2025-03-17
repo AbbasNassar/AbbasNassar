@@ -13,7 +13,7 @@
 
 ## 🚀 About Me  
 - 💻 Passionate about **Backend Development, Competitive Programming, and AI**  
-- 🔭 Currently working on **a Men's Clothing Website with AI-powered recommendations**  
+- 🔭 Currently working on **X (Twitter) Replica**  
 - 💬 Ask me about **C, C++, Java, HTML, CSS, Verilog, MIPS32 Assembly**  
 - 📚 Constantly learning and improving skills in **Machine Learning & Software Engineering**  
 - 📫 Reach me at **abbasnassar212@gmail.com**  
