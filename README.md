@@ -74,7 +74,6 @@
 
 ## 🎯 Projects & Repositories  
 🔹 [X(Twitter)](#) 
-
 🔹 [Restaurant Cashier System (Java & JavaFX)](#)  
 🔹 [E-commerce Course Website (HTML, CSS, JavaScript)](#)  
 🔹 [Medical Test Data Processing (Bash & Python)](#)  
