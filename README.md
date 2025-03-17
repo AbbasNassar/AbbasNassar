@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=AbbasNassar&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasnassar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
 ---
