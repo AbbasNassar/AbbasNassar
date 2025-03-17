@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋, I'm Abbas Nassar</h1>
 <h3 align="center">A passionate Computer engineering student interested in learning new skills.</h3>
-<img align="right" alt="Coding" width="320" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/10_coding_dribbble.gif"/>
+<img align="right" alt="Coding" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JwOXJlaXFiMnhtNzRsa2ZkZmhvdnltemE2eXVmZ2h2dm54ZTdvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAy9NNu16pYYg/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abbasnassar&label=Profile%20views&color=0e75b6&style=flat" alt="abbasnassar" /> </p>
 
 - 💬 Ask me about **C, C++, Java, HTML, CSS, Verilog, MIPS32 Assembly**
