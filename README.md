@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1nuhKhia1CtB-tzlAdEMSzccOuN5Xr_uo" alt="Header Banner">
+</p>
+
 <h1 align="center">Hello there 👋, I'm Abbas Nassar</h1>
 <h3 align="center">Code, code, code, and code</h3>
 
@@ -84,3 +88,8 @@
 ---
 
 ⭐ **Keep coding, keep learning, and never stop exploring!** 🚀  
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1wyiLgY8T1mNIbciQcnfpd1j2aScXP7P3" alt="Footer Banner">
+</p>
+
