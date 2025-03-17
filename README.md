@@ -50,7 +50,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasnassar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
+  <img src="https://streak-stats.demolab.com/?user=AbbasNassar&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
@@ -65,22 +65,17 @@
 ## 💡 Fun Facts  
 - 🔥 I love working on **backend systems** and **algorithmic problem-solving**.  
 - 🎯 My goal is to **become a top-notch backend engineer & AI specialist**.  
-- 🎸 Music keeps me going while coding – *King Von, blues, and jazz are my go-to!*  
+- 🎸 Music keeps me going while coding – *Blues, and jazz are my go-to!*  
 
 ---
 
 ## 🎯 Projects & Repositories  
-🔹 [Men's Clothing AI-Powered Website](#) - *Tracking alterations, recommendations, and orders*  
+🔹 [X(Twitter)](#) 
 🔹 [Restaurant Cashier System (Java & JavaFX)](#)  
 🔹 [E-commerce Course Website (HTML, CSS, JavaScript)](#)  
 🔹 [Medical Test Data Processing (Bash & Python)](#)  
 
 📌 *Check out more projects on my [GitHub Repositories](https://github.com/AbbasNassar?tab=repositories)!*  
-
----
-
-## 🎵 Music While Coding  
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_id&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false)](https://open.spotify.com/user/your_spotify_id)  
 
 ---
 
