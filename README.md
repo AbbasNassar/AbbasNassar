@@ -16,7 +16,7 @@
 ---
 
 ## 🚀 About Me  
-- 💻 Passionate about **Backend Development, Competitive Programming, and AI**  
+- 💻 Passionate about **Web Development, Competitive Programming, and AI**  
 - 🔭 Currently working on **X (Twitter) Replica**  
 - 💬 Ask me about **C, C++, Java, HTML, CSS, Verilog, MIPS32 Assembly**  
 - 📚 Constantly learning and improving skills in **Machine Learning & Software Engineering**  
