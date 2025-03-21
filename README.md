@@ -56,12 +56,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasnassar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbbasNassar&theme=radical" />
+</div>
+
+
 ---
 
 ## 🏆 GitHub Trophies  
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbbasNassar&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbbasNassar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
