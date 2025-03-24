@@ -56,11 +56,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abbasnassar&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="450"/>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbbasNassar&theme=radical" />
-</div>
-
-
 ---
 
 ## 🏆 GitHub Trophies  
