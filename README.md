@@ -67,7 +67,6 @@
 ## 💡 Fun Facts  
 - 🔥 I love working on **backend systems** and **algorithmic prhttps://birzeit-edu.zoom.us/j/89104199146?pwd=10xJhEZnnTxCDAlhfTibZ676QC2am2.1oblem-solving**.  
 - 🎯 My goal is to **become a top-notch backend engineer & AI specialist**.  
-- 🎸 Music keeps me going while coding – *Blues, and jazz are my go-to!*  
 
 ---
 
