@@ -2,18 +2,13 @@
   <img src="https://drive.google.com/uc?export=view&id=1nuhKhia1CtB-tzlAdEMSzccOuN5Xr_uo" alt="Header Banner">
 </p>
 
-<h1 align="center">Hello there 👋, I'm Abbas Nassar</h1>
-<h3 align="center">Code, code, code, and code</h3>
-
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3JwOXJlaXFiMnhtNzRsa2ZkZmhvdnltemE2eXVmZ2h2dm54ZTdvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YAy9NNu16pYYg/giphy.gif" width="320" alt="Coding Animation"/>
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abbasnassar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<h1 align="center">Hello there 👋, I'm Abbas Nassar</h1>
+
 
 ## 🚀 About Me  
 - 💻 Passionate about **Web Development, Competitive Programming, and AI**  
