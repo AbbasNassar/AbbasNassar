@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1nuhKhia1CtB-tzlAdEMSzccOuN5Xr_uo" alt="Header Banner">
-</p>
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abbasnassar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -78,7 +75,4 @@
 
 ⭐ **Keep coding, keep learning, and never stop exploring!** 🚀  
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1wyiLgY8T1mNIbciQcnfpd1j2aScXP7P3" alt="Footer Banner">
-</p>
-
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
