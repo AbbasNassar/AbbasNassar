@@ -8,10 +8,8 @@
 
 
 ## 🚀 About Me  
-- 💻 Passionate about **Web Development, Competitive Programming, and AI**  
-- 🔭 Currently working on **X (Twitter) Replica**  
-- 💬 Ask me about **C, C++, Java, HTML, CSS, Verilog, MIPS32 Assembly**  
-- 📚 Constantly learning and improving skills in **Machine Learning & Software Engineering**  
+- 💻 Passionate about **Backend Development, and IOT**     
+- 📚 Constantly learning and improving skills in **Software Engineering**  
 - 📫 Reach me at **abbasnassar212@gmail.com**  
 - ⚡ **The sky is the limit fr**  
 
@@ -58,14 +56,13 @@
 
 ## 💡 Fun Facts  
 - 🔥 I love working on **backend systems** and **algorithmic problems**.  
-- 🎯 My goal is to **become a top-notch backend engineer & AI specialist**.  
+- 🎯 My goal is to **become a top-notch backend engineer**.  
 
 ---
 
 ## 🎯 Projects & Repositories  
 
 🔹 [X(Twitter)](#)
-
 🔹 [Restaurant Cashier System (Java & JavaFX)](#)  
 🔹 [E-commerce Course Website (HTML, CSS, JavaScript)](#)  
 
