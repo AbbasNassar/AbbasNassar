@@ -163,11 +163,11 @@ Production image storage is planned to use **Cloudflare R2**.
 ### 🐦 X (Twitter) Clone
 Backend-focused implementation exploring APIs, architecture, authentication, and core social-media functionality.
 
-### 🍽️ Restaurant Cashier System
+### 🍽️ Sanity ware full System
 A desktop point-of-sale system built with **Java & JavaFX**.
 
-### 🛒 E-Commerce Course Website
-A frontend e-commerce project built with **HTML, CSS, and JavaScript**.
+### 🛒 E-Commerce manigement system
+A full stack web application system focused on creating E-commerce websites.
 
 ### 🚀 Current Full-Stack Project
 A scalable monorepo application featuring:
