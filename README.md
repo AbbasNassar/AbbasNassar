@@ -131,18 +131,6 @@ Production image storage is planned to use **Cloudflare R2**.
 
 ---
 
-## 💡 Fun Facts
-
-- 🔥 I love working on backend systems and algorithmic problems
-- 🤖 I love finding ways to automate repetitive work with n8n
-- 🧑‍💻 I'm a vibe coder — ideas first, implementation second, debugging third 😎
-- 🏗️ I enjoy designing APIs, databases, queues, and scalable architectures
-- 🌍 I like building applications that work across Arabic and English
-- ⚡ I believe good automation can turn complicated workflows into simple ones
-- 🎯 My goal is to become a top-notch backend engineer
-
----
-
 ## 🎯 Projects & Repositories
 
 ### 🐦 X (Twitter) Clone
