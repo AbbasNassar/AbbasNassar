@@ -139,7 +139,7 @@ Backend-focused implementation exploring APIs, architecture, authentication, and
 ### 🍽️ Sanity ware full System
 A desktop point-of-sale system built with **Java & JavaFX**.
 
-### 🛒 E-Commerce manigement system
+### 🛒 E-Commerce management system
 A full stack web application system focused on creating E-commerce websites.
 
 ### 🚀 Current Full-Stack Project
