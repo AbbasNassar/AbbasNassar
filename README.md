@@ -9,178 +9,90 @@
 <h1 align="center">👋 Hello, I'm Abbas Nassar</h1>
 
 <p align="center">
-  <em>Backend Developer & IoT Enthusiast building scalable and efficient systems.</em>
+  <strong>Computer Engineer · Building Intelligent, Connected Systems</strong><br />
+  <em>AI Applications · IoT Solutions · Full-Stack Web Development</em>
+</p>
+
+<p align="center">
+  <a href="https://www.abbasnassar.me/" target="_blank">🌐 Portfolio Website</a> •
+  <a href="https://linkedin.com/in/abbas-nassar-581277274" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:abbasnassar212@gmail.com">📫 abbasnassar212@gmail.com</a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about **Backend Development**, **System Architecture**, and **IoT**
-- 🤖 Passionate about **automation and workflow engineering** using **n8n**
-- 🔄 I enjoy turning repetitive tasks into automated, reliable workflows
-- 🧑‍💻 Proud **vibe coder** — I build, experiment, break things, and figure them out along the way
-- 📚 Constantly learning and improving my skills in Software Engineering
-- 🧠 Interested in scalable systems, APIs, databases, queues, and automation
-- 📫 Reach me at **abbasnassar212@gmail.com**
-- ⚡ The sky is the limit fr
+I am a **Computer Engineer** who designs and builds practical technology—from AI-powered applications to IoT devices and responsive web platforms.
+
+- 💡 **Engineering ideas into reliable products** across AI, embedded systems, and full-stack web.
+- 🎯 Passionate about clean architecture, thoughtful user experience, and solving real-world problems.
+- 🤖 Enthusiastic about **automation and workflow engineering** using **n8n**.
+- 🤝 Looking to collaborate with cross-functional teams that value improving people's lives through accessible, well-crafted design.
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <a href="https://linkedin.com/in/abbas-nassar-581277274" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="50" />
-  </a>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🤖 Automation & n8n
+## ⭐ Featured Projects
 
-One of the things I'm especially passionate about is **automation**.
+### 📚 [Study Buddy](https://www.abbasnassar.me/)
+Turn lecture slides into a complete study suite. Upload course decks (PDF, PPTX, notes, or images) to generate a summary, flashcards, interactive quizzes, a mock exam, and consult an AI tutor in ~1 minute.
+- **BYOK (Bring Your Own API Key):** Claude, GPT, or Gemini.
+- **Multi-lingual:** English & Arabic support.
 
-I enjoy using **n8n** to connect services, automate repetitive processes, and build workflows that allow systems to work together with minimal manual intervention.
-
-### What I Like Building with Automation
-
-- 🔄 Automated workflows between APIs and services
-- 📧 Automated email notifications and processing
-- 💬 WhatsApp and messaging automations
-- 🗄️ Database-driven workflows
-- 🔔 Event-based notifications
-- 🌐 API integrations
-- ⚙️ Background processes and scheduled jobs
-- 🤖 AI-powered automation workflows
-- 📊 Data processing and synchronization
-
-> If a computer can reliably do it for me, I probably want to automate it. ⚡
+### 🎨 [Portfolio Builder](https://www.abbasnassar.me/)
+Build a professional portfolio website without writing code or registering an account.
+- Inline click-to-edit interface with live preview.
+- Show, hide, and reorder sections on the fly.
+- English & Arabic with full RTL support.
+- Export as clean, production-ready static HTML/CSS in a ZIP, or share instantly via link.
 
 ---
 
-## 🏗️ Current Project Architecture
+## 🛠️ More Things I've Built
 
-I'm currently building a **full-stack application** using a **monorepo architecture** with a focus on scalability, type safety, clean separation of concerns, and automation.
-
-### 📦 Monorepo
-
-- 📁 Plain **npm workspaces** for managing the entire project
-- 🔗 Shared packages allow the frontend and backend to use the same validation schemas, enums, and permissions
-
-```text
-├── apps/
-│   ├── api/          # NestJS backend
-│   └── web/          # Next.js frontend
-│
-├── packages/
-│   └── types/        # Shared types, schemas & permissions
-│
-└── package.json      # npm workspaces
-```
-
-### ⚙️ Backend — `apps/api`
-
-- 🚀 **NestJS** for the backend API
-- 🗄️ **Prisma** as the ORM
-- 🐘 **PostgreSQL** as the primary database
-- ⚡ **Redis** for caching
-- 🔄 **BullMQ** for notification job queues
-
-### 🌐 Frontend — `apps/web`
-
-- ⚡ **Next.js 15** with the App Router
-- 🛍️ One application powering both the **storefront** and **admin dashboard**
-- 🎨 **Tailwind CSS** for styling
-- 🌍 **next-intl** for internationalization
-- 🇸🇦 Arabic + 🇬🇧 English support
-- ↔️ Full **RTL** support for Arabic
-
-### 📦 Shared Code — `packages/types`
-
-Shared code between the API and web application:
-
-- ✅ **Zod** validation schemas
-- 🔢 Shared enums
-- 🔐 Centralized permission list
-- 🔄 Consistent validation and types across the stack
-
-### 🐳 Infrastructure
-
-Development infrastructure runs with **Docker**:
-
-- 🐘 PostgreSQL
-- ⚡ Redis
-- 🪣 **MinIO** for local image/object storage
-
-Production image storage is planned to use **Cloudflare R2**.
-
-### 🔌 External Services
-
-- 📧 **Resend** for email delivery
-- 💬 **Meta WhatsApp Cloud API** for WhatsApp messaging
-- 🤖 **n8n** for workflow automation and service integrations
-- 🔒 External services are disabled by default in development where applicable
-
-### 🧪 Testing
-
-- ⚡ **Vitest** for API testing
-- 🧪 Unit tests
-- 🔄 End-to-end tests
-- 🗄️ Tests run against a separate test database
+- 💬 **AI Chatbot App:** A mobile application built with **React Native** delivering an interactive AI conversational assistant.
+- 🎬 **TikTok Automation Workflow:** An end-to-end **n8n** automation engine turning prompt inputs via a Telegram bot into ready-to-publish video content powered by Google AI Studio.
+- 🚚 **Delivery Platform:** A two-sided middleware platform connecting delivery couriers with clients needing logistics fulfillment.
+- 🏡 **Villa Rental Landing Page:** A modern, high-converting booking showcase and rental platform.
 
 ---
 
-## 🎯 Projects & Repositories
+## 🤖 Workflow Automation & n8n
 
-### 🐦 X (Twitter) Clone
-Backend-focused implementation exploring APIs, architecture, authentication, and core social-media functionality.
+I use **n8n** to eliminate manual overhead, connect APIs, and coordinate AI pipelines:
 
-### 🍽️ Sanity ware full System
-A desktop point-of-sale system built with **Java & JavaFX**.
+- 🔄 Cross-service API integrations & data synchronization
+- 🤖 Generative AI pipelines (Telegram bots, multi-model AI synthesis)
+- 💬 WhatsApp & Telegram messaging bots
+- 📧 Automated email pipelines and document processing
+- ⚙️ Scheduled background processing & webhook receivers
 
-### 🛒 E-Commerce management system
-A full stack web application system focused on creating E-commerce websites.
-
-### 🚀 Current Full-Stack Project
-A scalable monorepo application featuring:
-
-| Area | Technologies |
-|---|---|
-| Backend | NestJS · Prisma · PostgreSQL |
-| Frontend | Next.js 15 · App Router · Tailwind CSS |
-| Queues & Cache | Redis · BullMQ |
-| Infrastructure | Docker · MinIO |
-| Shared | Zod shared schemas |
-| Localization | Arabic & English · RTL support |
-| Integrations | Resend · WhatsApp Cloud API · n8n |
-| Testing | Vitest |
-
-📌 Check out more projects on my [GitHub Repositories](https://github.com/AbbasNassar?tab=repositories)!
+> *"If a computer can reliably do it, automate it."* ⚡
 
 ---
 
-## ⚡ What I'm Into
+## 📬 Connect with Me
 
-```text
-Backend Engineering     ████████████████████
-System Architecture     ██████████████████
-Automation / n8n        ███████████████████
-IoT                     ███████████████
-APIs & Integrations     ███████████████████
-Databases               █████████████████
-Vibe Coding             ████████████████████
-```
+- 🌐 **Website:** [abbasnassar.me](https://www.abbasnassar.me/)
+- 💼 **LinkedIn:** [Abbas Nassar](https://linkedin.com/in/abbas-nassar-581277274)
+- ✉️ **Email:** [abbasnassar212@gmail.com](mailto:abbasnassar212@gmail.com)
 
 ---
-
-<p align="center">
-  ⭐ <em>Keep coding, keep learning, automate everything you can, and never stop exploring!</em> 🚀
-</p>
-
-<p align="center">
-  <em>Built with code, automation, caffeine, and a little bit of vibe coding.</em> ☕🤖💻
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" alt="Footer" />
