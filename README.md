@@ -49,12 +49,12 @@ I am a **Computer Engineer** who designs and builds practical technology—from 
 
 ## ⭐ Featured Projects
 
-### 📚 [Study Buddy](https://www.abbasnassar.me/)
+### 📚 [Study Buddy](https://studdybuddy.abbasnassar.me/)
 Turn lecture slides into a complete study suite. Upload course decks (PDF, PPTX, notes, or images) to generate a summary, flashcards, interactive quizzes, a mock exam, and consult an AI tutor in ~1 minute.
 - **BYOK (Bring Your Own API Key):** Claude, GPT, or Gemini.
 - **Multi-lingual:** English & Arabic support.
 
-### 🎨 [Portfolio Builder](https://www.abbasnassar.me/)
+### 🎨 [Portfolio Builder](https://portfoliobuilder.abbasnassar.me/)
 Build a professional portfolio website without writing code or registering an account.
 - Inline click-to-edit interface with live preview.
 - Show, hide, and reorder sections on the fly.
